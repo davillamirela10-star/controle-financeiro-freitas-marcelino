@@ -1,14 +1,1 @@
-{
-  "name": "Controle Financeiro Família Freitas Marcelino",
-  "short_name": "Controle Financeiro",
-  "description": "App financeiro familiar para entradas, despesas, cartão e metas.",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#fff5fa",
-  "theme_color": "#c9184a",
-  "orientation": "portrait",
-  "icons": [
-    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
-    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"}
-  ]
-}
+{"name":"Controle Financeiro Família Freitas Marcelino","short_name":"Controle Financeiro","description":"App financeiro familiar para entradas, despesas, cartão e metas.","start_url":"./index.html","display":"standalone","background_color":"#fff5fa","theme_color":"#c9184a","orientation":"portrait","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}]}
